@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.royal37.com	TRUE	/	FALSE	1999999999	__cfduid	d9c4619aafeda3b731565ad3c0222b7151539629640
+mines.royal37.com	TRUE	/	FALSE	1999999999	PHPSESSID	5fe1e8497e8160b2d7a94419e1b2e23d
+mines.royal37.com	TRUE	/	FALSE	1999999999	access	access_temp
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d30a7c314d1bf74450cff68ad30a1136a1539629659
+.royal39.com	TRUE	/	FALSE	1999999999	__cfduid	d82f3b127e024dbec1ca9fb8fe96093d71539629661
+
